@@ -1,0 +1,1 @@
+The Museum of Candy Project is a fun, front-end development project idea commonly used to practice HTML, CSS, and responsive design skills. It mimics a fictional website for a candy-themed museum, and is a great portfolio piece for web developers. 
